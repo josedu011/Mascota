@@ -25,3 +25,17 @@ body {
     margin-top : 50px;
     margin-left: -130px;
 }
+
+.container .buttons .btn {
+    position        : absolute;
+    padding         : 10px 20px;
+    font-size       : 18px;
+    background-color: #0004F8;
+    color           : white;
+    border          : none;
+    border-radius   : 3px;
+}
+
+.container .buttons>#btnno {
+    margin-left: 70px;
+}
