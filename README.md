@@ -1,1 +1,1 @@
-[Click here to see this page]( https://josedu011.github.io/Mascota/)
+[Click here to see this page](https://josedu011.github.io/Mascota/)
